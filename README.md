@@ -6,4 +6,4 @@
 ![imagen](img4.png)
 ![imagen](img5.png)
 ![imagen](img6.png)
-![imagen](img7.png)
+
